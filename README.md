@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-[![Linkedin Badge](https://img.shields.io/badge/-arshmalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arsh-malik/)](https://www.linkedin.com/in/aryan-vij-051825106/)
+[![Linkedin Badge](https://img.shields.io/badge/-arshmalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-vij/)](https://www.linkedin.com/in/aryan-vij-051825106/)
 
 ## Hi there 👋
 
