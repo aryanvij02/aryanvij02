@@ -5,7 +5,6 @@
 
 ### A little about me...
 -  💬 Pronouns: He/Him
--  🎓 Sophomore studying Electric Engineering and Computer Science at UC Berkeley(https://www.berkeley.edu/)
 -  👨‍💻 Product and Engineering at [MyAIFrontDesk](https://www.myaifrontdesk.com/), revolutionizing outbound phone calls with AI for numerous industries
 -  🥳 Senior Strategy Consultant at Venture Strategy Solutions at Berkeley, working with high-impact startups
 -  👀 CTO @ Kern Volunteers United, bridging the gap between nonprofit organizations and exceptional student volunteers (https://www.kernvolunteersunited.com/)
