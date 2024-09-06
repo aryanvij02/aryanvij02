@@ -1,8 +1,5 @@
 <!-- ### Hi there 👋 -->
-
-![Sunrise at Berkeley](/assets/banner-compressed.png "Title")
-
-[![Linkedin Badge](https://media.licdn.com/dms/image/v2/D5603AQHkO6SwJV4G9Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718984993586?e=1730937600&v=beta&t=NsHkwbofpvj6HBDouwf1PRD32L_hHmFexPezmzZYE6U)](https://www.linkedin.com/in/aryan-vij-051825106/)
+[![Linkedin Badge](https://img.shields.io/badge/-arshmalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arsh-malik/)](https://www.linkedin.com/in/aryan-vij-051825106/)
 
 ## Hi there 👋
 
