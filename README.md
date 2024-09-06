@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
-[![Linkedin Badge](https://img.shields.io/badge/-arshmalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-vij/)](https://www.linkedin.com/in/aryan-vij-051825106/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-vij-051825106/)
 
 ## Hi there 👋
 
-### A ~qu~bit about me...
+### A little about me...
 -  💬 Pronouns: He/Him
 -  🎓 Sophomore studying Electric Engineering and Computer Science at UC Berkeley(https://www.berkeley.edu/)
 -  👨‍💻 Product and Engineering at [MyAIFrontDesk](https://www.myaifrontdesk.com/), revolutionizing outbound phone calls with AI for numerous industries
