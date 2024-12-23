@@ -4,9 +4,9 @@
 ## Hi there 👋
 
 ### A little about me...
+-  👨‍💻 Helping businesses grow with organic growth @ [Artificial Marketeer](https://www.artificialmarketeer.com/)
 -  👨‍💻 Product and Engineering at [MyAIFrontDesk](https://www.myaifrontdesk.com/), revolutionizing outbound phone calls with AI for numerous industries
 -  🥳 Senior Strategy Consultant at Venture Strategy Solutions at Berkeley, working with high-impact startups
--  👀 CTO @ Kern Volunteers United, bridging the gap between nonprofit organizations and exceptional student volunteers (https://www.kernvolunteersunited.com/)
 -  💡 Ex-Software Engineering at Shasta Health (YCS23) in full stack software development and ML applications (https://www.shasta.health/)
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arsh-malik/), [Email](mailto:aryanv0213@berkeley.edu)
 
