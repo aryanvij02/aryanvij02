@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 ### A little about me...
--  👨‍💻 Helping businesses grow with organic growth @ [Artificial Marketeer](https://www.artificialmarketeer.com/)
+-  🚀 Helping businesses grow with organic growth @ [Artificial Marketeer](https://www.artificialmarketeer.com/)
 -  👨‍💻 Product and Engineering at [MyAIFrontDesk](https://www.myaifrontdesk.com/), revolutionizing outbound phone calls with AI for numerous industries
 -  🥳 Senior Strategy Consultant at Venture Strategy Solutions at Berkeley, working with high-impact startups
 -  💡 Ex-Software Engineering at Shasta Health (YCS23) in full stack software development and ML applications (https://www.shasta.health/)
