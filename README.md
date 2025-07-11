@@ -8,7 +8,7 @@
 -  Product and Engineering at [MyAIFrontDesk](https://www.myaifrontdesk.com/), revolutionizing outbound phone calls with AI for numerous industries
 -  Senior Strategy Consultant at Venture Strategy Solutions at Berkeley, working with high-impact startups
 -  Ex-Software Engineering at [Shasta Health (YCS23)](https://www.shasta.health/) in full stack software development and ML applications
--  How to reach me: [LinkedIn](https://www.linkedin.com/in/arsh-malik/), [Email](mailto:aryanv0213@berkeley.edu)
+-  How to reach me: [LinkedIn](https://www.linkedin.com/in/aryanvij/), [Email](mailto:aryanv0213@berkeley.edu)
 
 ### Technical Skills
 #### Programming Languages
