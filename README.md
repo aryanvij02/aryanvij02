@@ -4,10 +4,11 @@
 ## Hi there 👋
 
 ### A little about me...
--  Helping businesses grow with organic growth @ [Artificial Marketeer](https://www.artificialmarketeer.com/)
--  Product and Engineering at [MyAIFrontDesk](https://www.myaifrontdesk.com/), revolutionizing outbound phone calls with AI for numerous industries
+-  Building for the Agentic Web @ [ConnectorX](https://www.connectorx.dev/)
+-  SWE Intern at Qualcomm
+-  Prev. SWE intern at [MyAIFrontDesk](https://www.myaifrontdesk.com/), revolutionizing outbound phone calls with AI for numerous industries
 -  Senior Strategy Consultant at Venture Strategy Solutions at Berkeley, working with high-impact startups
--  Ex-Software Engineering at [Shasta Health (YCS23)](https://www.shasta.health/) in full stack software development and ML applications
+-  Prev. SWE intern at [Shasta Health (YCS23)](https://www.shasta.health/) in full stack software development and ML applications
 -  How to reach me: [LinkedIn](https://www.linkedin.com/in/aryanvij/), [Email](mailto:aryanv0213@berkeley.edu)
 
 ### Technical Skills
